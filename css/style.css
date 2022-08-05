@@ -242,7 +242,7 @@ header a:hover {
 	align-items: center;
 }
 .mission_principles p::before {
-	content: url('/images/line.svg');
+	content: url('images/line.svg');
 	margin-right: 10px;
 }
 .mission_planet_block {
@@ -255,7 +255,7 @@ header a:hover {
 	margin-top: -55px;
 }
 .mission_left_block {
-	background: url(/images/mission_block.svg);
+	background: url(images/mission_block.svg);
     width: 500px;
     height: 461px;
     background-repeat: no-repeat;
@@ -354,7 +354,7 @@ header a:hover {
 	position: relative;
 }
 .areas {
-	background-image: url('/images/backblock.png');
+	background-image: url('images/backblock.png');
 	background-repeat: no-repeat;
 	float: left;
     width: 100%;
@@ -381,7 +381,7 @@ header a:hover {
 	align-items: center;
 }
 .areas_title h2:before {
-	content: url('/images/union2.svg');
+	content: url('images/union2.svg');
 	margin-right: 10px;
 }
 .areas_podtitle {
@@ -466,7 +466,7 @@ header a:hover {
 	align-items: center;
 }
 .chains_title h2:before {
-	content: url('/images/union2.svg');
+	content: url('images/union2.svg');
 	margin-right: 10px;
 }
 .chains_block {
@@ -493,7 +493,7 @@ header a:hover {
 	margin-right: 20px;
 }
 .chains_bl img {
-	background-image: url(/images/whiteback3.svg);
+	background-image: url(images/whiteback3.svg);
     background-repeat: no-repeat;
     background-position: center;
     width: 100px;
@@ -595,7 +595,7 @@ header a:hover {
 	align-items: center;
 }
 .slider_title h2:before {
-	content: url('/images/union.svg');
+	content: url('images/union.svg');
 	margin-right: 10px;
 }
 .slider_slides {
@@ -649,7 +649,7 @@ header a:hover {
 	margin-left: 100px;
 }
 .slider_body_puncts p::before {
-	content: url('/images/line.svg');
+	content: url('images/line.svg');
 	margin-right: 10px;
 }
 .slider_body_puncts p {
@@ -716,7 +716,7 @@ header a:hover {
 	align-items: center;
 }
 .contact_title h2:before {
-	content: url('/images/union2.svg');
+	content: url('images/union2.svg');
 	margin-right: 10px;
 }
 .contact_block {
@@ -836,7 +836,7 @@ header a:hover {
 	width: 100%;
 	padding-top: 100px;
 	padding-bottom: 200px;
-	background-image: url('/images/hiring_back.png');
+	background-image: url('images/hiring_back.png');
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: bottom;
@@ -854,7 +854,7 @@ header a:hover {
 	align-items: center;
 }
 .hiring_title h2:before {
-	content: url('/images/union2.svg');
+	content: url('images/union2.svg');
 	margin-right: 10px;
 }
 .hiring_title_block {
@@ -871,7 +871,7 @@ header a:hover {
 	width: 90%;
 }
 .hiring_block {
-	background-image: url(/images/hiring_block.svg);
+	background-image: url(images/hiring_block.svg);
     color: #fff;
     padding: 30px;
     background-repeat: no-repeat;
@@ -1006,7 +1006,7 @@ footer:before {
 }
 .pixels {
 	position: relative;
-	/*background-image: url('/images/pixels.svg');*/
+	/*background-image: url('images/pixels.svg');*/
 	float: right;
 	height: 60px;
 	width: 960px;
@@ -1230,7 +1230,7 @@ footer:before {
 	display: inline-block;
     height: 379px;
     width: 876px;
-    background: url(/images/planet.svg) 0px 0px;
+    background: url(images/planet.svg) 0px 0px;
     animation: play 0.8s steps(16) infinite;
 }
 .sprite-image-small {
@@ -1241,13 +1241,13 @@ footer:before {
 }
 @keyframes play {
     0% {
-        background: url('/images/planet.svg');
+        background: url('images/planet.svg');
     }
     50% {
-        background: url('/images/planet1.svg');
+        background: url('images/planet1.svg');
     }
     100% {
-        background: url('/images/planet2.svg');
+        background: url('images/planet2.svg');
     }
 }
 @media(max-width: 2560px) {
@@ -1315,7 +1315,7 @@ footer:before {
 	    flex-wrap: wrap;
 	}
 	.mission_left_block {
-	    background: url(/images/mission_block.svg);
+	    background: url(images/mission_block.svg);
 	    width: 500px;
 	    height: 461px;
 	    background-repeat: no-repeat;
@@ -1660,18 +1660,18 @@ footer:before {
 		display: inline-block;
 	    height: 300px;
 	    width: 600px;
-	    background: url(/images/planetsmall.svg) 0px 0px;
+	    background: url(images/planetsmall.svg) 0px 0px;
 	    animation: play 0.8s steps(16) infinite;
 	}
 	@keyframes play {
 	    0% {
-	        background: url('/images/planetsmall.svg');
+	        background: url('images/planetsmall.svg');
 	    }
 	    50% {
-	        background: url('/images/planetsmall1.svg');
+	        background: url('images/planetsmall1.svg');
 	    }
 	    100% {
-	        background: url('/images/planetsmall2.svg');
+	        background: url('images/planetsmall2.svg');
 	    }
 	}
 	.pixels {
@@ -1801,18 +1801,18 @@ footer:before {
 		display: inline-block;
 	    height: 250px;
 	    width: 400px;
-	    background: url(/images/planetsupersmall.svg) 0px 0px;
+	    background: url(images/planetsupersmall.svg) 0px 0px;
 	    animation: play 0.8s steps(16) infinite;
 	}
 	@keyframes play {
 	    0% {
-	        background: url('/images/planetsupersmall.svg');
+	        background: url('images/planetsupersmall.svg');
 	    }
 	    50% {
-	        background: url('/images/planetsupersmall1.svg');
+	        background: url('images/planetsupersmall1.svg');
 	    }
 	    100% {
-	        background: url('/images/planetsupersmall2.svg');
+	        background: url('images/planetsupersmall2.svg');
 	    }
 	}
 	.footer_copyright img {
@@ -2273,7 +2273,7 @@ footer:before {
 	    font-size: 12px;
 	}
 	.slider_body_puncts p::before {
-	    content: url(/images/linesmall.svg);
+	    content: url(images/linesmall.svg);
 	    margin-right: 5px;
 	}
 }
@@ -2385,7 +2385,7 @@ footer:before {
 		background-size: 100% 25%;
 	}
 	.slider_title h2:before {
-		content: url(/images/unionsmall.svg);
+		content: url(images/unionsmall.svg);
 	}
 	.slider_body_puncts {
 	    font-size: 8px;
